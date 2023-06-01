@@ -159,3 +159,11 @@ footer {
 #botonfooter {
   margin: 30px;
 }
+
+.greeting {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  }
+  
